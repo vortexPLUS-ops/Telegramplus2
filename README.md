@@ -1,5 +1,8 @@
 # Telegramplus2
 # 1. Install prerequisites
+#download git
+pkg install git -y
+
 pkg install python3 git -y
 
 # 2. Install Telethon library
